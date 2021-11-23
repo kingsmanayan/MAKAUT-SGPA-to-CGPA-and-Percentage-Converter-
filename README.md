@@ -4,6 +4,8 @@ This is a JAVA code Run this code in JAVA Jdk . This Program Convert MAKAUT Univ
 
 install java jdk form this link :- https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.zip
 
+Download MAKAUT-SGPA-to-CGPA-and-Percentage-Converter java file form this link :- https://github.com/kingsmanayan/MAKAUT-SGPA-to-CGPA-and-Percentage-Converter-/blob/main/cgpa_to_percentage.java
+
 open CMD (Command Prompt) 
 
 go to the file location :- cd\ file_location
